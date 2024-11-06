@@ -2,7 +2,7 @@ from flask import Flask, render_template
 from api_nyt import get_popular_articles
 
 app = Flask(__name__)
-API_KEY = 'GrGK6LRD1ibC4dAPuXeW8gkZZyA5Xnlp'
+API_KEY = ''
 
 @app.route('/')
 def index():
