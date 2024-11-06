@@ -26,3 +26,4 @@ cd news
 http://127.0.0.1:5000
 ,,,
 ### choose or click one off the articles
+[Screencast from 06-11-24 19:03:41.webm](https://github.com/user-attachments/assets/2eef1e4e-c6d4-454c-a475-bd160697441b) 
