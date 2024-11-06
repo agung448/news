@@ -7,7 +7,7 @@ This python web apps is to show most popular articles in NYT with local setup
    - git
 ### Setup env 
 ```
-$python -m venv venv 
+$python3 -m venv venv 
 ```
 ``` 
 $source venv/bin/active 
@@ -31,7 +31,7 @@ $cd news
 ```
 #### Run command below with command line
 ``` 
-$ python app.py
+$ python3 app.py
 ```
 #### Python app status
 ![python3-app](https://github.com/user-attachments/assets/aeacd446-eaba-4da2-b0ab-0671dd1e0642)
