@@ -28,9 +28,8 @@ $ python app.py
 http://127.0.0.1:5000
 ```
 #### Python app status
-```
 ![python3-app](https://github.com/user-attachments/assets/aeacd446-eaba-4da2-b0ab-0671dd1e0642)
-```
+
 ### Choose or click one off the articles
 
 [Screencast from 06-11-24 19:03:41.webm](https://github.com/user-attachments/assets/2eef1e4e-c6d4-454c-a475-bd160697441b) 
