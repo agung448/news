@@ -5,7 +5,6 @@ This python web apps is to show most popular articles in NYT with local setup
 ## Requirements
    - python
    - git
-   - Flask module 
 ## How to run this in  local
 #### Install python to local machine
 ```
@@ -23,12 +22,13 @@ cd news
 ``` 
 $ python app.py
 ```
+#### Python app status
+![python3-app](https://github.com/user-attachments/assets/aeacd446-eaba-4da2-b0ab-0671dd1e0642)
+
 #### Browse with your browser
 ```  
 http://127.0.0.1:5000
 ```
-#### Python app status
-![python3-app](https://github.com/user-attachments/assets/aeacd446-eaba-4da2-b0ab-0671dd1e0642)
 
 ### Choose or click one off the articles
 
